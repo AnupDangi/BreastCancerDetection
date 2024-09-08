@@ -37,5 +37,5 @@ Each block of code or run it manually by clicking run button
 Contributions are always welcome.
 Feel free to use this project and modify based on your requirement.
 
-I am enlisted my learning concepts from this project inside jupyter notebook and pdf of the same notebook which is inside the same repo. 
+I have enlisted all of my learning concepts from this project inside jupyter notebook and pdf of the same notebook which is inside the same repo. 
 
